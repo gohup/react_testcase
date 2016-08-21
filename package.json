@@ -72,7 +72,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davezuko/react-redux-starter-kit.git"
+    "url": "git+https://github.com/gohup/react_testcase.git"
   },
   "author": "David Zukowski <david@zuko.me> (http://zuko.me)",
   "license": "MIT",
