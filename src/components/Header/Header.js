@@ -4,7 +4,7 @@ import classes from './Header.scss'
 
 export const Header = () => (
   <div>
-    <h1>React Redux Master changed local</h1>
+    <h1>React Redux Master second branch local from first branch</h1>
     <IndexLink to='/' activeClassName={classes.activeRoute}>
       Home
     </IndexLink>
